@@ -1,0 +1,4 @@
+- [x] Checked pylint for the files
+- [ ] Created Unittest for new methods
+- [ ] Ran unitest without ERROR
+- [ ] Test validated locally
